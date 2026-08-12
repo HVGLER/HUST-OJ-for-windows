@@ -7,3 +7,5 @@ HUSTOJ的Windows上的移植版，但是我进行了一点修改，你可以自�
 安装python，并执行pip install pymysql
 
 之后，php和MySQL自行配置
+
+还有一点，就是支持正版https://github.com/zhblue/hustoj
